@@ -1,0 +1,6 @@
+[wrap-git]
+directory = imgui
+url = https://github.com/ocornut/imgui.git
+revision = v1.93.0
+depth = 1
+patch_directory = imgui

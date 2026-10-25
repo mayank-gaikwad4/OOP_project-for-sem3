@@ -1,0 +1,6 @@
+[wrap-git]
+directory = sdl
+url = https://github.com/libsdl-org/SDL.git
+revision = release-3.4.18
+depth = 1
+method = cmake

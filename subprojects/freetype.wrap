@@ -1,0 +1,6 @@
+[wrap-git]
+directory = freetype
+url = https://github.com/freetype/freetype.git
+revision = VER-2-13-3
+depth = 1
+method = cmake
